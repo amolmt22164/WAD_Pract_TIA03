@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #333;
+}
+
+/* Card Styling */
+.card {
+    background: white;
+    border: none;
+    border-radius: 15px;
+}
+
+/* Form Input Fields */
+.input-group-text {
+    background: #f8f9fa;
+    border: none;
+    color: #6c757d;
+}
+
+/* Button Styling */
+.btn-primary {
+    background: #2575fc;
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background: #6a11cb;
+    transform: scale(1.02);
+}
+
+/* Links */
+a {
+    color: #2575fc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
