@@ -1,0 +1,14 @@
+{
+  "name": "wad6",
+  "version": "1.0.0",
+  "description": "WAD Assignment 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amol Marathe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
